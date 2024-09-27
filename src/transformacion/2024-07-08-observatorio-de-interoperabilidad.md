@@ -1,5 +1,5 @@
 ---
-title: Observatorio de Interoperabilidad
+title: IA en Municipalidades
 image: /assets/cms/interoperabildiad_gd-24.png
 description: Monitoreo del avance de la eficiencia y eficacia de  interoperar de
   las entidades del Estado.
