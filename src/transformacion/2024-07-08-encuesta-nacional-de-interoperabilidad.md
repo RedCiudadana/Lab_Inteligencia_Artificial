@@ -1,5 +1,5 @@
 ---
-title: Encuesta Nacional de Interoperabilidad
+title: IA en el Sector Justicia
 image: /assets/cms/interoperabildiad_gd-23.png
 description: Recopilación de datos sobre el estado de la interoperabilidad en
   Guatemala y la percepción de los usuarios sobre los servicios interconectados.
