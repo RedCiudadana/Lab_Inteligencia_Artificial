@@ -1,6 +1,6 @@
 ---
 title: IA en Municipalidades
-image: /assets/cms/interoperabildiad_gd-24.png
+image: /assets/cms/lab-ai-01-21.png
 description: Monitoreo del avance de la eficiencia y eficacia de  interoperar de
   las entidades del Estado.
 date: 2024-07-08T18:34:46.498Z
