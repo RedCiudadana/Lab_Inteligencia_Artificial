@@ -19797,6 +19797,12 @@ label.checkbox {
   height: 100%!important;
 }
 
+.iniciativas-block h2 {
+  height: 70px;
+}
+
+
+
 .recursos{
   display: flex;
   background-color: #f9fbfc;
